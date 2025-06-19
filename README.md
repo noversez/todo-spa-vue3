@@ -14,7 +14,7 @@
 ## Структура проекта
 
 - `src/api/tasks.ts` — эмуляция API для работы с задачами
-- `src/store/` — Vuex store (модуль задач)
+- `src/store/` — Vuex store
 - `src/components/` — компоненты интерфейса (список, фильтр, инпут)
 - `src/App.vue` — точка входа
 
